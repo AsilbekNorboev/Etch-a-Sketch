@@ -50,8 +50,8 @@ button:focus, input:focus {
     margin-left: auto;
     margin-right: auto;
     border: 4px solid #a8dadc;
-    width: 960px;
-    height:960px;
+    width: 700px;
+    height:700px;
     display: flex;
     position: relative;
     flex-flow: row wrap;
